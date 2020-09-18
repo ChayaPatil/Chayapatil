@@ -5,7 +5,7 @@ ABOUT ME
 * Currently working on Front-end Development.
 * Learning more about the technologies that go on building Full Stack Applications
 
-TECK STACK
+TECH STACK
 * Javascript
 * HTML | CSS | Bootstrap | ReactJS | Material
 * GitHub
