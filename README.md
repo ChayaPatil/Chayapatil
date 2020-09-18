@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Chaya Patil
+
+ABOUT ME
+* Passionate about Web.
+* Currently working on Front-end Development.
+* Learning more about the technologies that go on building Full Stack Applications
+
+TECK STACK
+* Javascript
+* HTML | CSS | Bootstrap | ReactJS | Material
+* GitHub
+
+CONNECT WITH ME
+* LinkedIn: https://www.linkedin.com/in/chaya-patil-98323816a/
+* Mail ID: chayaspatil04@gmail.com
+* Github: https://github.com/ChayaPatil/
+
 
 <!--
 **ChayaPatil/Chayapatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
